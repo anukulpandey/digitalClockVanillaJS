@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(27, 27, 27);
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    height: 80vh;
+    width: 98vw;
+}
+.container{
+    height: 36px;
+    width: 171px;
+    display: flex;
+    align-self: center;
+    color: rgb(255, 187, 0);
+    font-size: 30px;
+    font-family: 'Kanit', sans-serif;
+}
+
+#digitalClock{
+    margin: auto;
+}
